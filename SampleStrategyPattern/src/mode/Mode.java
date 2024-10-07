@@ -1,4 +1,4 @@
-package phone;
+package mode;
 
 public enum Mode {
     LIGHT,

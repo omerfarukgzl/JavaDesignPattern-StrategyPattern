@@ -1,7 +1,5 @@
 package mode;
 
-import phone.Mode;
-
 import java.util.HashMap;
 import java.util.function.Supplier;
 

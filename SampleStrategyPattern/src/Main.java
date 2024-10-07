@@ -1,6 +1,6 @@
 import mode.IMode;
 import mode.StrategyFactory;
-import phone.Mode;
+import mode.Mode;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,7 +1,5 @@
 package mode;
 
-import phone.Mode;
-
 public class LightMode extends AMode{
 
     public LightMode(){
