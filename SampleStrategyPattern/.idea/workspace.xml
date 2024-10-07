@@ -1,17 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d626e05-d908-4a13-9629-13680b4fdc55" name="Changes" comment="" />
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="7d626e05-d908-4a13-9629-13680b4fdc55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SampleStrategyPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mode/AMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mode/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mode/DarkMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mode/IMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mode/LightMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mode/StrategyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone/Mode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone/Phone.java" afterDir="false" />
+    </list>
+>>>>>>> 4a2f9e35bedb2a6564ec06a66aaefb0c6c6a22fd
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> 4a2f9e35bedb2a6564ec06a66aaefb0c6c6a22fd
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -24,11 +49,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Omer/Documents/GitHub/JavaDesignPatterns-StrategyPattern/SampleStrategyPattern"
+=======
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Omer/Documents/GitHub/JavaDesignPattern-StrategyPattern/SampleStrategyPattern"
+>>>>>>> 4a2f9e35bedb2a6564ec06a66aaefb0c6c6a22fd
   }
 }]]></component>
   <component name="RecentsManager">
